@@ -5,10 +5,10 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
-import FacebookSvg from "./SocialSVG/FacebookSvg";
-import InstagramSvg from "./SocialSVG/InstagramSvg";
-import LinkdinSvg from "./SocialSVG/LinkdinSvg";
-import TwitterSvg from "./SocialSVG/TwitterSvg";
+import FacebookSvg from "../SocialSVG/FacebookSvg";
+import InstagramSvg from "../SocialSVG/InstagramSvg";
+import LinkdinSvg from "../SocialSVG/LinkdinSvg";
+import TwitterSvg from "../SocialSVG/TwitterSvg";
 
 const Footer = () => {
   return (

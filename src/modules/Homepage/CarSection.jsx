@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "./Shared/Button";
+import Button from "../Shared/Button";
 import SingleCar from "./SingleCar";
 
 const CarSection = () => {

@@ -1,6 +1,6 @@
 import React from "react";
+import Blog from "../Blog/Blog";
 import AboutUs from "./AboutUs";
-import Blog from "./Blog/Blog";
 import CarSection from "./CarSection";
 import ContactUs from "./ContactUs";
 import DiscrountBanner from "./DiscrountBanner";

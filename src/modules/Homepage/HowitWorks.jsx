@@ -18,7 +18,7 @@ const HowitWorks = () => {
             <div className="text-center flex flex-col items-center relative">
               <img src="/assets/image/works_flow_01.png" alt="" />
               <h1 className="font-bold text-3xl py-5 ">Customer Support</h1>
-              <p className="px-[30px] py-[20px] text-xl font-semibold">
+              <p className="px-[30px] py-[20px] text-md ">
                 Our dedicated customer support team is available to assist you
                 at every step, ensuring a smooth and satisfying experience.
               </p>
@@ -36,7 +36,7 @@ const HowitWorks = () => {
               <h1 className="font-bold text-3xl py-5 ">
                 Best Price Guaranteed
               </h1>
-              <p className="px-[30px] py-[20px] text-xl font-semibold">
+              <p className="px-[30px] py-[20px] text-md ">
                 We promise the best prices on all vehicles, giving you
                 confidence in your purchase and ensuring great value.
               </p>
@@ -52,7 +52,7 @@ const HowitWorks = () => {
               </div>
               <img src="/assets/image/works_flow_03.png" alt="" />
               <h1 className="font-bold text-3xl py-5 ">Many Locations</h1>
-              <p className="px-[30px] py-[20px] text-xl font-semibold">
+              <p className="px-[30px] py-[20px] text-md ">
                 With numerous locations worldwide, you can easily access our
                 vast inventory and services, making vehicle shopping convenient
                 and accessible.
